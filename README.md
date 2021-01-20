@@ -8,7 +8,7 @@
 
 ## 2010
 - [Barclays to pay $298 million in U.S. sanctions case](https://www.reuters.com/article/us-barclays-justice/barclays-to-pay-298-million-in-u-s-sanctions-case-idUSTRE67F36J20100816)
-- [FSA fines Royal Bank of Scotland Group £5.6m for UK sanctions controls failings](https://www.fca.org.uk/news/press-releases/fsa-fines-royal-bank-scotland-group-%C2%A356m-uk-sanctions-controls-failings)
+- [Royal Bank of Scotland Group fined £5.6 million for anti-terror failings](https://www.bbc.com/news/business-10850093)
 - [Goldman Sachs fined £17.5 million by FSA over failure to report US fraud case](https://www.theguardian.com/business/2010/sep/09/goldman-sachs-fined-fsa-fraud)
 - [Goldman Sachs handed record $550 million fine over Abacus transaction](https://www.theguardian.com/business/2010/jul/16/goldman-sachs-record-abacus-fine)
 - [UK fines JPMorgan record $49 million](https://www.reuters.com/article/us-britain-fine-jpmorgan/uk-fines-jpmorgan-record-49-million-idUSTRE6521J520100603)
@@ -49,7 +49,7 @@
 - [The Bank of Tokyo-Mitsubishi UFJ fined $315 million over US dollar clearing controls](https://www.finextra.com/pressarticle/57767/btmu-fined-315-million-over-us-dollar-clearing-controls)
 
 ## 2015
-- [Deutsche Bank to pay $2.5 billion fine in Libor scandal](https://www.dw.com/en/deutsche-bank-to-pay-record-fine-in-libor-scandal/a-18403221)
+- 🇩🇪[Deutsche Bank to pay $2.5 billion fine in Libor scandal](https://www.dw.com/en/deutsche-bank-to-pay-record-fine-in-libor-scandal/a-18403221)
 - [Deutsche Bank fined $258 million for violating US sanctions](https://www.dw.com/en/deutsche-bank-fined-for-violating-us-sanctions/a-18829056)
 - [Credit Agricole fined $800 million for US sanctions violations](https://www.bbc.com/news/business-34578865)
 - [Bank of America fined $30 million, accused of breaking law protecting service members](https://www.charlotteobserver.com/news/business/banking/article22620621.html)
@@ -64,6 +64,7 @@
 - [Goldman Sachs to pay $5 billion for its role in the 2008 financial crisis](https://www.theguardian.com/business/2016/apr/11/goldman-sachs-2008-financial-crisis-mortagage-backed-securities)
 - [Federal Reserve fines Goldman Sachs $36 million in document leak](https://www.nytimes.com/2016/08/04/business/dealbook/federal-reserve-fines-goldman-sachs-36-million-in-document-leak.html)
 - [FinCEN penalizes Florida’s Gibraltar Private Bank for willful anti-money laundering compliance violations](https://www.fincen.gov/news/news-releases/fincen-penalizes-floridas-gibraltar-private-bank-willful-anti-money-laundering)
+- [Bangladesh's Sonali bank fined £3.3 million](https://www.bbc.com/news/business-37630901)
 
 
 ## 2017
@@ -88,6 +89,7 @@
 - [Rabobank agrees to pay $368 million over processing illicit funds](https://www.reuters.com/article/uk-rabobank-fraud-usa/rabobank-agrees-to-pay-368-million-over-processing-illicit-funds-idUKKBN1FR2YO?edition-redirect=uk)
 - [Banque Postale fined €50 million over terror suspect payments](https://www.thelocal.fr/20181224/french-bank-fined-50-mn-euros-over-terror-suspect-payments)
 - [Société Générale fined $1.34 billion for violating Cuban embargo](https://www.miamiherald.com/latest-news/article221949860.html)
+- [Bank of Ireland fined €3.15 million for breaches of laundering law](https://www.irishtimes.com/business/financial-services/bank-of-ireland-fined-3-15m-for-breaches-of-laundering-law-1.3100696)
 
 ## 2019
 - [Royal Bank of Scotland has been fined £17 million over currency rigging cartel](https://www.scotsman.com/lifestyle/rbs-has-been-fined-ps17m-over-currency-rigging-cartel-1415950)
