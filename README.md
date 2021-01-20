@@ -5,6 +5,7 @@
 - [Credit Suisse to pay $536 million fine over dealing with Iran](https://www.nytimes.com/2009/12/16/business/16bank.html)
 - [Lloyds to pay the US $350 million after sanctions probe](https://www.france24.com/en/20090110-lloyds-pay-us-350-million-after-sanctions-probe-)
 - [ANZ pays US Treasury $5.75 million to settle alleged sanctions-busting violations](https://www.finextra.com/newsarticle/20418/anz-pays-us-treasury-575-million-to-settle-alleged-sanctions-busting-violations)
+- [JPMorgan settles bond case for $722 million; SEC says deals were pay-to-play](https://www.al.com/birmingham-news-stories/2009/11/jp_morgan_settles_bond_case_fo.html)
 
 ## 2010
 - [Barclays to pay $298 million in U.S. sanctions case](https://www.reuters.com/article/us-barclays-justice/barclays-to-pay-298-million-in-u-s-sanctions-case-idUSTRE67F36J20100816)
@@ -27,6 +28,7 @@
 - [HSBC to pay $1.9 billion U.S. fine in money-laundering case](https://www.reuters.com/article/us-hsbc-probe/hsbc-to-pay-1-9-billion-u-s-fine-in-money-laundering-case-idUSBRE8BA05M20121211)
 - [Standard Chartered to pay $327 million in U.S. sanctions case](https://www.reuters.com/article/us-stanchart-settlement/standard-chartered-to-pay-327-million-in-u-s-sanctions-case-idUSBRE8B90OT20121210)
 - [Japanese bank fined $8.6 million for U.S. sanctions breaches](https://www.investmentexecutive.com/news/industry-news/japanese-bank-fined-for-u-s-sanctions-breaches/)
+- [JPMorgan Chase reaches settlement, to pay $110 million in overdraft-fee case](https://www.seattletimes.com/business/chase-reaches-settlement-to-pay-110-million-in-overdraft-fee-case/)
 
 
 ## 2013
@@ -35,6 +37,7 @@
 - [JPMorgan Will Pay Record Breaking $13 billion Justice Department Fine](https://www.theatlantic.com/national/archive/2013/10/jpmorgan-agreed-pay-record-breaking-13-billion-justice-department-fine/309790/)
 - [JMorgan Chase Will Have To Pay A Fine Of $2 billion For Laundering $76 billion For Bernie Madoff](https://www.forbes.com/sites/robertlenzner/2013/12/12/j-p-morgan-chase-will-have-to-pay-a-fine-of-2-billion-for-laundering-76-billion-for-bernie-madoff/?sh=3c4f7f4d4aac)
 - [Japanese bank fined $250 million AUS for violating US sanctions on Iran and Myanmar](https://www.abc.net.au/news/2013-06-21/an-japanese-bank-fined-for-violating-us-sanctions-on-iran2c-my/4770160)
+- [Banks to pay $8.5 billion in foreclosure settlement](https://money.cnn.com/2013/01/07/news/economy/new-foreclosure-settlement/index.html)
 
 ## 2014
 - [Royal Bank of Scotland fined £56 million over 'unacceptable' computer failure](https://www.bbc.com/news/business-30125728)
@@ -55,6 +58,7 @@
 - [Bank of America fined $30 million, accused of breaking law protecting service members](https://www.charlotteobserver.com/news/business/banking/article22620621.html)
 - [Goldman Sachs to pay $50 million fine over documents scandal](https://nypost.com/2015/10/26/goldman-sachs-to-pay-50m-fine-over-documents-scandal/)
 - [ABN Amro fined €1.1 million for lax money laundering protection in Dubai](https://nltimes.nl/2015/11/04/abn-amro-fined-eu11m-lax-money-laundering-protection-dubai)
+- [JPMorgan Chase to pay $125 million to settle debt collection investigations](https://www.insidearm.com/news/00040628-jpmorgan-chase-to-pay-125m-to-settle-debt/)
 
 ## 2016
 - [Deutsche Bank settles for $7.2 billion over US mortgage-backed securities](https://www.dw.com/en/deutsche-bank-settles-over-us-mortgage-backed-securities/a-36886197)
@@ -66,14 +70,16 @@
 - [FinCEN penalizes Florida’s Gibraltar Private Bank for willful anti-money laundering compliance violations](https://www.fincen.gov/news/news-releases/fincen-penalizes-floridas-gibraltar-private-bank-willful-anti-money-laundering)
 - [Bangladesh's Sonali bank fined £3.3 million](https://www.bbc.com/news/business-37630901)
 - [Ulster Bank fined €3.3 million for anti-money laundering and terrorist-financing failures](https://www.thejournal.ie/ulster-bank-fine-money-laundering-3056290-Nov2016/)
+- [JPMorgan Chase to Pay $264 million to Settle Foreign Bribery Case](https://www.nytimes.com/2016/11/18/business/dealbook/jpmorgan-chase-to-pay-264-million-to-settle-foreign-bribery-charges.html)
 
 
 ## 2017
-- [Deutsche Bank fined $425 million over suspicious Russia trades](https://www.dw.com/en/deutsche-bank-fined-425-million-over-suspicious-russia-trades/a-37343153)
+- [Deutsche Bank fined $630 million over Russia money laundering claims](https://www.theguardian.com/business/2017/jan/31/deutsche-bank-fined-630m-over-russia-money-laundering-claims)
 - [Royal Bank of Scotland to pay $5.5 billion to settle probe into toxic mortgages](https://money.cnn.com/2017/07/12/investing/rbs-settlement-toxic-mortgages/index.html?iid=EL)
 - [Fed fines BNP Paribas $246 million on ‘unsafe and unsound’ foreign exchange practices](https://www.cnbc.com/2017/07/17/fed-will-fine-bnp-pariba.html)
 - [Bank of America's Merrill Lynch fined £35 million by UK watchdog](https://www.bbc.com/news/business-41721318)
 - [Japanese Bank fined $600,000 for ‘spoofing’ U.S. futures markets](https://www.wsj.com/articles/japanese-bank-fined-600-000-for-spoofing-u-s-futures-markets-1502138523)
+- [JPMorgan pays $55 million to settle mortgage discrimination lawsuit](https://eu.usatoday.com/story/money/2017/01/18/us-accuses-jpmorgan-mortgage-discrimination-lawsuit/96710486/)
 
 ## 2018
 - [Royal Bank of Scotland to pay New York $500 million for deceptions ahead of 2008 crash](https://www.theguardian.com/business/2018/mar/06/new-york-royal-bank-scotland-settlement-2008-financial-crash)
@@ -91,6 +97,7 @@
 - [Banque Postale fined €50 million over terror suspect payments](https://www.thelocal.fr/20181224/french-bank-fined-50-mn-euros-over-terror-suspect-payments)
 - [Société Générale fined $1.34 billion for violating Cuban embargo](https://www.miamiherald.com/latest-news/article221949860.html)
 - [Bank of Ireland fined €3.15 million for breaches of laundering law](https://www.irishtimes.com/business/financial-services/bank-of-ireland-fined-3-15m-for-breaches-of-laundering-law-1.3100696)
+- [JPMorgan will pay $24 million to end lawsuit from black advisers](https://www.bloomberg.com/news/articles/2018-09-04/jpmorgan-will-pay-24-million-to-end-lawsuit-from-black-advisers)
 
 ## 2019
 - [Royal Bank of Scotland has been fined £17 million over currency rigging cartel](https://www.scotsman.com/lifestyle/rbs-has-been-fined-ps17m-over-currency-rigging-cartel-1415950)
@@ -107,7 +114,8 @@
 - [AFM fines ABN AMRO €2 million for non-timely disclosure of inside information](https://deltaconx.com/2019/12/16/afm-fines-abn-amro-for-non-timely-disclosure-of-inside-information/)
 - [UBS fined €3.7 billion in tax fraud case](https://www.bbc.com/news/business-47305227)
 - [MAS imposes $8.2 million penalty on Swiss bank UBS for deceptive trades](https://www.channelnewsasia.com/news/singapore/mas-ubs-fine-11-2-million-deceptive-trades-client-advisors-12094002)
-- [UBS fined $51m by Hong Kong regulator for overcharging clients](https://asia.nikkei.com/Business/Companies/UBS-fined-51m-by-Hong-Kong-regulator-for-overcharging-clients)
+- [UBS fined $51 million by Hong Kong regulator for overcharging clients](https://asia.nikkei.com/Business/Companies/UBS-fined-51m-by-Hong-Kong-regulator-for-overcharging-clients)
+- [JPMorgan settles for $75 million over mismanaged 401(k) plans](https://milestomemories.com/jpmorgan-settles-for-75m-over-mismanaged-401k-plans/)
 
 ## 2020
 - [FCA fines Barclays £26 million over treatment of customers in financial difficulty](https://www.fca.org.uk/news/press-releases/fca-fines-barclays-treatment-customers-financial-difficulty)
@@ -128,6 +136,9 @@
 - [Rabobank receives a fine of millions for breaking bonus rules](https://www.tellerreport.com/business/2020-02-13---rabobank-receives-a-fine-of-millions-for-breaking-bonus-rules-.ry20m2MQL.html)
 - [Deutsche Bank fined €13.5 million for tardy flagging of suspicious transfers](https://www.internationalinvestment.net/news/4021650/deutsche-bank-fined-eur-tardy-flagging-suspicious-transfers)
 - [Norway's DNB faces $45 million fine over lack of compliance on anti-money laundering](https://www.reuters.com/article/dnb-fine/norways-dnb-faces-45-mln-fine-over-lack-of-compliance-on-anti-money-laundering-idUSL8N2IN13A)
+- [Swedbank hit with record $386 million fine over Baltic money-laundering breaches](https://www.reuters.com/article/us-europe-moneylaundering-swedbank/swedbank-hit-with-record-386-million-fine-over-baltic-money-laundering-breaches-idUSKBN2163LU)
+- [Danske Faces $2 Billion in Fines for Laundering Case](https://www.riskscreen.com/kyc360/news/danske-faces-2-billion-in-fines-for-laundering-case-jyske-says/)
+- [Standard Chartered Bank fined £20.4 million for loans to Russian banks](https://www.osborneclarke.com/insights/sanctions-standard-chartered-bank-fined-20-4-million-loans-russian-banks/)
 
 ## 2021
 - [French lender Union de Banques Arabes et Françaises SA fined $8.6M over Syria sanctions violations](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/french-bank-fined-8-6m-over-syria-sanctions-violations-61967319)
