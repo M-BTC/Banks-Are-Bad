@@ -13,6 +13,8 @@
 - [Goldman Sachs fined £17.5 million by FSA over failure to report US fraud case](https://www.theguardian.com/business/2010/sep/09/goldman-sachs-fined-fsa-fraud)
 - [Goldman Sachs handed record $550 million fine over Abacus transaction](https://www.theguardian.com/business/2010/jul/16/goldman-sachs-record-abacus-fine)
 - [UK fines JPMorgan record $49 million](https://www.reuters.com/article/us-britain-fine-jpmorgan/uk-fines-jpmorgan-record-49-million-idUSTRE6521J520100603)
+- [FINRA fines HSBC Securities (USA) $1.5 million, US Bancorp $275,000 for auction rate securities violations](https://www.finra.org/media-center/news-releases/2010/finra-fines-hsbc-securities-usa-15-million-us-bancorp-275000-auction)
+- [Finra fines HSBC $375,000 on problematic CMO sales](https://www.marketwatch.com/story/finra-fines-hsbc-375000-on-problematic-cmo-sales-2010-08-19)
 
 ## 2011
 - [Barclays Capital fined £1.1 million over handling of clients' money](https://www.theguardian.com/business/2011/jan/26/barclays-capital-fined-over-handling-of-clients-money)
@@ -38,6 +40,7 @@
 - [JMorgan Chase Will Have To Pay A Fine Of $2 billion For Laundering $76 billion For Bernie Madoff](https://www.forbes.com/sites/robertlenzner/2013/12/12/j-p-morgan-chase-will-have-to-pay-a-fine-of-2-billion-for-laundering-76-billion-for-bernie-madoff/?sh=3c4f7f4d4aac)
 - [Japanese bank fined $250 million AUS for violating US sanctions on Iran and Myanmar](https://www.abc.net.au/news/2013-06-21/an-japanese-bank-fined-for-violating-us-sanctions-on-iran2c-my/4770160)
 - [Banks to pay $8.5 billion in foreclosure settlement](https://money.cnn.com/2013/01/07/news/economy/new-foreclosure-settlement/index.html)
+- [HSBC fined $1 million for money laundering in Argentina](https://www.occrp.org/en/daily/1979-british-bank-fined-for-money-laundering-in-argentina)
 
 ## 2014
 - [Royal Bank of Scotland fined £56 million over 'unacceptable' computer failure](https://www.bbc.com/news/business-30125728)
@@ -98,6 +101,7 @@
 - [Société Générale fined $1.34 billion for violating Cuban embargo](https://www.miamiherald.com/latest-news/article221949860.html)
 - [Bank of Ireland fined €3.15 million for breaches of laundering law](https://www.irishtimes.com/business/financial-services/bank-of-ireland-fined-3-15m-for-breaches-of-laundering-law-1.3100696)
 - [JPMorgan will pay $24 million to end lawsuit from black advisers](https://www.bloomberg.com/news/articles/2018-09-04/jpmorgan-will-pay-24-million-to-end-lawsuit-from-black-advisers)
+- [HSBC expects to pay $1.5 billion in tax evasion, money laundering fines](https://www.riskscreen.com/kyc360/news/hsbc-expects-to-pay-1-5-billion-in-fines-over-tax-evasion-money-laundering/)
 
 ## 2019
 - [Royal Bank of Scotland has been fined £17 million over currency rigging cartel](https://www.scotsman.com/lifestyle/rbs-has-been-fined-ps17m-over-currency-rigging-cartel-1415950)
@@ -116,6 +120,7 @@
 - [MAS imposes $8.2 million penalty on Swiss bank UBS for deceptive trades](https://www.channelnewsasia.com/news/singapore/mas-ubs-fine-11-2-million-deceptive-trades-client-advisors-12094002)
 - [UBS fined $51 million by Hong Kong regulator for overcharging clients](https://asia.nikkei.com/Business/Companies/UBS-fined-51m-by-Hong-Kong-regulator-for-overcharging-clients)
 - [JPMorgan settles for $75 million over mismanaged 401(k) plans](https://milestomemories.com/jpmorgan-settles-for-75m-over-mismanaged-401k-plans/)
+
 
 ## 2020
 - [FCA fines Barclays £26 million over treatment of customers in financial difficulty](https://www.fca.org.uk/news/press-releases/fca-fines-barclays-treatment-customers-financial-difficulty)
