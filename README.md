@@ -1,4 +1,4 @@
-# The Fiat System Is Broken And Corrupt.  
+# The Fiat System Is Broken And Corrupt, Bitcoin Fixes This!  
 *by M.BTC - [Follow on Twitter](https://twitter.com/m__btc)*
 
 ## 2009
