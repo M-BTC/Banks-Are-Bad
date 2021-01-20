@@ -1,4 +1,5 @@
 # The Fiat System Is Broken And Corrupt.  
+*by M.BTC - [Follow on Twitter](https://twitter.com/m__btc)
 
 ## 2009
 - [Credit Suisse to pay $536 million fine over dealing with Iran](https://www.nytimes.com/2009/12/16/business/16bank.html)
