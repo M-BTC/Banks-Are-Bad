@@ -49,7 +49,7 @@
 - [The Bank of Tokyo-Mitsubishi UFJ fined $315 million over US dollar clearing controls](https://www.finextra.com/pressarticle/57767/btmu-fined-315-million-over-us-dollar-clearing-controls)
 
 ## 2015
-- 🇩🇪[Deutsche Bank to pay $2.5 billion fine in Libor scandal](https://www.dw.com/en/deutsche-bank-to-pay-record-fine-in-libor-scandal/a-18403221)
+- [Deutsche Bank to pay $2.5 billion fine in Libor scandal](https://www.dw.com/en/deutsche-bank-to-pay-record-fine-in-libor-scandal/a-18403221)
 - [Deutsche Bank fined $258 million for violating US sanctions](https://www.dw.com/en/deutsche-bank-fined-for-violating-us-sanctions/a-18829056)
 - [Credit Agricole fined $800 million for US sanctions violations](https://www.bbc.com/news/business-34578865)
 - [Bank of America fined $30 million, accused of breaking law protecting service members](https://www.charlotteobserver.com/news/business/banking/article22620621.html)
@@ -65,6 +65,7 @@
 - [Federal Reserve fines Goldman Sachs $36 million in document leak](https://www.nytimes.com/2016/08/04/business/dealbook/federal-reserve-fines-goldman-sachs-36-million-in-document-leak.html)
 - [FinCEN penalizes Florida’s Gibraltar Private Bank for willful anti-money laundering compliance violations](https://www.fincen.gov/news/news-releases/fincen-penalizes-floridas-gibraltar-private-bank-willful-anti-money-laundering)
 - [Bangladesh's Sonali bank fined £3.3 million](https://www.bbc.com/news/business-37630901)
+- [Ulster Bank fined €3.3 million for anti-money laundering and terrorist-financing failures](https://www.thejournal.ie/ulster-bank-fine-money-laundering-3056290-Nov2016/)
 
 
 ## 2017
@@ -125,6 +126,8 @@
 - [JPMorgan To Pay $250 million Fine Over ‘Pattern Of Misconduct’ In Wealth Management Business](https://www.forbes.com/sites/sarahhansen/2020/11/24/jpmorgan-to-pay-250-million-fine-over-pattern-of-misconduct-in-wealth-management-business-its-second-huge-settlement-in-two-months/)
 - [JPMorgan to pay almost $1 billion fine to resolve U.S. investigation into trading practices](https://www.cnbc.com/2020/09/23/jpmorgan-to-pay-almost-1-billion-fine-to-resolve-us-investigation-into-trading-practices.html)
 - [Rabobank receives a fine of millions for breaking bonus rules](https://www.tellerreport.com/business/2020-02-13---rabobank-receives-a-fine-of-millions-for-breaking-bonus-rules-.ry20m2MQL.html)
+- [Deutsche Bank fined €13.5 million for tardy flagging of suspicious transfers](https://www.internationalinvestment.net/news/4021650/deutsche-bank-fined-eur-tardy-flagging-suspicious-transfers)
+- [Norway's DNB faces $45 million fine over lack of compliance on anti-money laundering](https://www.reuters.com/article/dnb-fine/norways-dnb-faces-45-mln-fine-over-lack-of-compliance-on-anti-money-laundering-idUSL8N2IN13A)
 
 ## 2021
 - [French lender Union de Banques Arabes et Françaises SA fined $8.6M over Syria sanctions violations](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/french-bank-fined-8-6m-over-syria-sanctions-violations-61967319)
