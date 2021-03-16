@@ -17,8 +17,12 @@ Total fines in 2009: $1,613,750,000
 - [UK fines JPMorgan record $49 million](https://www.reuters.com/article/us-britain-fine-jpmorgan/uk-fines-jpmorgan-record-49-million-idUSTRE6521J520100603)
 - [FINRA fines HSBC Securities (USA) $1.5 million, US Bancorp $275,000 for auction rate securities violations](https://www.finra.org/media-center/news-releases/2010/finra-fines-hsbc-securities-usa-15-million-us-bancorp-275000-auction)
 - [Finra fines HSBC $375,000 on problematic CMO sales](https://www.marketwatch.com/story/finra-fines-hsbc-375000-on-problematic-cmo-sales-2010-08-19)
+- [Bank Of America agrees to pay $150 Million to settle SEC charges](https://www.sec.gov/litigation/litreleases/2010/lr21407.htm)
+- [Bank of America pays $624 million settlement of a lawsuit accusing it of misleading investors about its lending practices](https://www.reuters.com/article/bankofamerica-countrywide-idUSN0717212120100507)
+- [Bank of America pays $108 million fine for troublemaking countrywide](https://nymag.com/intelligencer/2010/06/bank_of_america_pays_108_milli.html)
+- [Bank of America agrees to pay $137.3 million in restitution to federal and state agencies](https://www.justice.gov/opa/pr/bank-america-agrees-pay-1373-million-restitution-federal-and-state-agencies-condition-justice)
 
-Total fines in 2010: $933.850.000
+Total fines in 2010: $2,013,150,000
 
 ## 2011
 - [Barclays Capital fined $1.52 million over handling of clients' money](https://www.theguardian.com/business/2011/jan/26/barclays-capital-fined-over-handling-of-clients-money)
@@ -27,8 +31,9 @@ Total fines in 2010: $933.850.000
 - [Fed hits Wells Fargo with $85 million fine](https://money.cnn.com/2011/07/20/news/companies/wells_fargo_fined/index.htm)
 - [JPMorgan to Pay $88 Million for Violating US Sanctions](https://www.cnbc.com/id/44276107)
 - [JPMorgan to Pay $153.6 Million to Settle SEC Charges of Misleading Investors](https://www.sec.gov/news/press/2011/2011-131.htm)
+- [Bank of America settles for $2.8 billion over questionable mortgages](https://www.reuters.com/article/us-bankofamerica-gses-idUSTRE7021JX20110103)
 
-Total fines in 2011: $667,920,000
+Total fines in 2011: $3,467,920,000
 
 ## 2012
 - [ING to pay $619 million over Cuba, Iran sanctions](https://www.reuters.com/article/us-ing-sanctions-idUSBRE85B12I20120612)
@@ -51,6 +56,7 @@ Total fines in 2012: $2,964,600,000
 Total fines in 2013: $24,676,800,000
 
 ## 2014
+- [Bank of America to Pay $9.5 Billion to Resolve FHFA Claims](https://www.wsj.com/articles/SB10001424052702303779504579463751775159682)
 - [Royal Bank of Scotland fined $77.4 million over 'unacceptable' computer failure](https://www.bbc.com/news/business-30125728)
 - [BNP Paribas fined record $8.9 billion for sanctions violations](https://www.complianceweek.com/bnp-paribas-fined-record-89-billion-for-sanctions-violations/13523.article)
 - [Six banks fined $3.6 billion by regulators over forex failings](https://www.bbc.com/news/business-30016007)
@@ -61,8 +67,10 @@ Total fines in 2013: $24,676,800,000
 - [SEC charges Virginia Beach-based bank holding company with accounting violations](https://www.sec.gov/news/press-release/2014-271)
 - [PricewaterhouseCoopers fined $25m for whitewashing bank's sanctions violations](https://www.finextra.com/newsarticle/26369/pwc-fined-25m-for-whitewashing-banks-sanctions-violations)
 - [The Bank of Tokyo-Mitsubishi UFJ fined $315 million over US dollar clearing controls](https://www.finextra.com/pressarticle/57767/btmu-fined-315-million-over-us-dollar-clearing-controls)
+- [CFPB Orders Bank Of America To Pay $727 Million In Consumer Relief For Illegal Credit Card Practices](https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-bank-of-america-to-pay-727-million-in-consumer-relief-for-illegal-credit-card-practices/)
+- 
 
-Total fines in 2014: $30,044,200,000
+Total fines in 2014: $40,271,200,000
 
 ## 2015
 - [Deutsche Bank to pay $2.5 billion fine in Libor scandal](https://www.dw.com/en/deutsche-bank-to-pay-record-fine-in-libor-scandal/a-18403221)
@@ -166,8 +174,9 @@ Total fines in 2019: $6,400,458,000
 - [USAA Bank fined $85 million by federal regulators for 'Violations of Law'](https://www.military.com/daily-news/2020/10/21/usaa-bank-fined-85-million-federal-regulators-violations-of-law.html)
 - [TD Bank fined $122 million for enrolling customers in overdraft service without consent](https://www.bizjournals.com/philadelphia/news/2020/08/20/td-bank-fined-122m-for.html)
 - [Danske Bank fined $1.4 million for misleading customers](https://www.occrp.org/en/daily/13356-danske-bank-fined-us-1-4m-for-misleading-customers)
+- [Merrill to pay $26.25 million to New Hampshire, former NH Governor to settle churning allegations](https://www.cnbc.com/2020/12/07/merrill-lynch-to-pay-26point25-million-to-settle-churning-allegations-.html)
 
-Total fines in 2020: $11,499,080,000
+Total fines in 2020: $11,525,330,000
 
 ## 2021
 - [French lender Union de Banques Arabes et Françaises SA fined $8.6 million over Syria sanctions violations](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/french-bank-fined-8-6m-over-syria-sanctions-violations-61967319)
@@ -185,5 +194,5 @@ Total fines in 2020: $11,499,080,000
 
 Total fines in 2021: $1,284,486,000
 
-**Total fines since Bitcoin inception: $116,548,204,000**
+**Total fines since Bitcoin inception: $130,620,754,000**
 
