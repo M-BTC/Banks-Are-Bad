@@ -160,4 +160,5 @@
 - [UAE Central Bank fines $12.5 million to 11 banks for compliance failure](https://www.bloomberg.com/news/articles/2021-01-31/uae-central-bank-fines-11-banks-for-compliance-failure)
 - [FCA starts criminal proceedings against NatWest for alleged money laundering](https://sports.yahoo.com/natwest-bank-fca-allegations-money-laundering-083107827.html)
 - [ABN Amro facing more money laundering suspicions](https://nltimes.nl/2021/03/15/abn-amro-facing-money-laundering-suspicions)
+- [Malaysia's AmBank to pay $700 million in 1MDB-linked settlement](https://www.reuters.com/article/us-malaysia-politics-1mdb-ammb-idUSKBN2AQ1XF)
 
