@@ -74,7 +74,7 @@
 - [Bangladesh's Sonali bank fined £3.3 million](https://www.bbc.com/news/business-37630901)
 - [Ulster Bank fined €3.3 million for anti-money laundering and terrorist-financing failures](https://www.thejournal.ie/ulster-bank-fine-money-laundering-3056290-Nov2016/)
 - [JPMorgan Chase to Pay $264 million to Settle Foreign Bribery Case](https://www.nytimes.com/2016/11/18/business/dealbook/jpmorgan-chase-to-pay-264-million-to-settle-foreign-bribery-charges.html)
-
+- [Christine Lagarde convicted: IMF head found guilty of criminal charges over massive government payout](https://www.independent.co.uk/news/world/europe/christine-lagarde-convicted-imf-head-found-guilty-negligence-fraud-trial-a7484586.html)
 
 ## 2017
 - [Deutsche Bank fined $630 million over Russia money laundering claims](https://www.theguardian.com/business/2017/jan/31/deutsche-bank-fined-630m-over-russia-money-laundering-claims)
@@ -139,11 +139,25 @@
 - [JPMorgan To Pay $250 million Fine Over ‘Pattern Of Misconduct’ In Wealth Management Business](https://www.forbes.com/sites/sarahhansen/2020/11/24/jpmorgan-to-pay-250-million-fine-over-pattern-of-misconduct-in-wealth-management-business-its-second-huge-settlement-in-two-months/)
 - [JPMorgan to pay almost $1 billion fine to resolve U.S. investigation into trading practices](https://www.cnbc.com/2020/09/23/jpmorgan-to-pay-almost-1-billion-fine-to-resolve-us-investigation-into-trading-practices.html)
 - [Rabobank receives a fine of millions for breaking bonus rules](https://www.tellerreport.com/business/2020-02-13---rabobank-receives-a-fine-of-millions-for-breaking-bonus-rules-.ry20m2MQL.html)
-- [Deutsche Bank fined €13.5 million for tardy flagging of suspicious transfers](https://www.internationalinvestment.net/news/4021650/deutsche-bank-fined-eur-tardy-flagging-suspicious-transfers)
+- [Deutsche Bank fined $15.9 million for tardy flagging of suspicious transfers](https://www.complianceweek.com/regulatory-enforcement/deutsche-bank-fined-159m-for-lag-in-reporting-suspicious-transactions/29598.article)
 - [Norway's DNB faces $45 million fine over lack of compliance on anti-money laundering](https://www.reuters.com/article/dnb-fine/norways-dnb-faces-45-mln-fine-over-lack-of-compliance-on-anti-money-laundering-idUSL8N2IN13A)
 - [Swedbank hit with record $386 million fine over Baltic money-laundering breaches](https://www.reuters.com/article/us-europe-moneylaundering-swedbank/swedbank-hit-with-record-386-million-fine-over-baltic-money-laundering-breaches-idUSKBN2163LU)
 - [Danske Faces $2 Billion in Fines for Laundering Case](https://www.riskscreen.com/kyc360/news/danske-faces-2-billion-in-fines-for-laundering-case-jyske-says/)
 - [Standard Chartered Bank fined £20.4 million for loans to Russian banks](https://www.osborneclarke.com/insights/sanctions-standard-chartered-bank-fined-20-4-million-loans-russian-banks/)
+- [USAA Bank fined $85 million by federal regulators for 'Violations of Law'](https://www.military.com/daily-news/2020/10/21/usaa-bank-fined-85-million-federal-regulators-violations-of-law.html)
+- [TD Bank fined $122M for enrolling customers in overdraft service without consent](https://www.bizjournals.com/philadelphia/news/2020/08/20/td-bank-fined-122m-for.html)
+- [Danske Bank fined $1.4 million for misleading customers](https://www.occrp.org/en/daily/13356-danske-bank-fined-us-1-4m-for-misleading-customers)
 
 ## 2021
-- [French lender Union de Banques Arabes et Françaises SA fined $8.6M over Syria sanctions violations](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/french-bank-fined-8-6m-over-syria-sanctions-violations-61967319)
+- [French lender Union de Banques Arabes et Françaises SA fined $8.6 million over Syria sanctions violations](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/french-bank-fined-8-6m-over-syria-sanctions-violations-61967319)
+- [Swiss private bank Rahn+Bodmer admits to tax evasion, fined $22 million](https://www.manilatimes.net/2021/03/13/business/foreign-business/swiss-bank-admits-to-tax-evasion-fined-22m/850592/)
+- [China Development Bank fined $6.6 million for illicitly guaranteeing HNA loan](https://www.caixinglobal.com/2021-03-12/exclusive-chinas-biggest-policy-bank-fined-big-bucks-for-illicitly-guaranteeing-hna-loan-sources-say-101674715.html)
+- [ANZ Bank fined $280,000 for misleading customers](https://www.stuff.co.nz/business/124455805/anz-let-them-down-bank-fined-280000-for-misleading-customers)
+- [M&T Bank fined $546,000 for flood insurance violations](https://www.nationalmortgagenews.com/news/m-t-bank-fined-for-flood-insurance-violations)
+- [Apple Bank for Savings fined $12.5 million fined for Anti-Money-Laundering law failures](https://www.wsj.com/articles/new-york-bank-fined-for-anti-money-laundering-law-failures-11612200233)
+- [Deutsche Bank fined $132 million over bribery schemes](https://www.cfo.com/legal/2021/01/deutsche-bank-fined-132m-over-bribery-schemes/)
+- [Capital One fined $390 million for ‘egregious’ AML compliance failures](https://www.complianceweek.com/regulatory-enforcement/capital-one-fined-390m-for-egregious-aml-compliance-failures/29949.article)
+- [UAE Central Bank fines $12.5 million to 11 banks for compliance failure](https://www.bloomberg.com/news/articles/2021-01-31/uae-central-bank-fines-11-banks-for-compliance-failure)
+- [FCA starts criminal proceedings against NatWest for alleged money laundering](https://sports.yahoo.com/natwest-bank-fca-allegations-money-laundering-083107827.html)
+- [ABN Amro facing more money laundering suspicions](https://nltimes.nl/2021/03/15/abn-amro-facing-money-laundering-suspicions)
+
